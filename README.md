@@ -22,6 +22,8 @@ Link: https://www.youtube.com/watch?v=_oO4Qi5aVZs
 
 - React
 - Tailwind
+  - NOTE: If you are downloading and implementing tailwind for the first time you will need the following extension in order to enable intelisense for CSS within JSX file types. The attached video covers the steps and the required extension to fix the intelisense issue.
+  - Link: https://www.youtube.com/watch?v=gtu9QnIf38Q
 - Vite
 - Node
 
