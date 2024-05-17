@@ -25,6 +25,7 @@ Link: https://www.youtube.com/watch?v=_oO4Qi5aVZs
   - NOTE: If you are downloading and implementing tailwind for the first time you will need the following extension in order to enable intelisense for CSS within JSX file types. The attached video covers the steps and the required extension to fix the intelisense issue.
   - Link: https://www.youtube.com/watch?v=gtu9QnIf38Q
 - Vite
+  - Vite is a build tool for modern web development that aims to provide a faster and more efficient development experience. It is particularly popular in the Vue.js ecosystem, where it is often used as a development server and build tool. Vite focuses on quick startup times and fast hot module replacement (HMR), making the development process smoother and more productive. It also supports modern features like ES modules, TypeScript, and CSS preprocessors out of the box.
 - Node
 
 ## Features
