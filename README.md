@@ -14,7 +14,7 @@ Hello everyone! My goal here is to expand my knowledge and understand of JavaScr
 
 ## About
 
-This is my first adventure into developing a website using React and Tailwind. I found a guide on youtube to teach me how to get started with these two powerful tools. I will attach the links below!
+This is my first adventure into developing a website using React and Tailwind. I found a guide on youtube to teach me how to get started with these two powerful tools. I will attach the link below!
 
 Link: https://www.youtube.com/watch?v=_oO4Qi5aVZs
 Design Doc: https://www.figma.com/design/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=0-1&t=5YFLb1utP3rdSlwB-0
