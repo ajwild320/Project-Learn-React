@@ -50,4 +50,6 @@ In order to run this project you will need to install Vite, Node, and Tailwind
 3. Run the following command to run the application within your runtime
    ```sh
    npm run dev
-4. If more instructions are required further on, I will continue adding them here.
+4. If you simply wish to view the hosted website, the link is pasted below!
+   ```sh
+   https://project-learn-react.com/
