@@ -16,7 +16,9 @@ Hello everyone! My goal here is to expand my knowledge and understand of JavaScr
 
 This is my first adventure into developing a website using React and Tailwind. I found a guide on youtube to teach me how to get started with these two powerful tools. I will attach the link below!
 
-Link: https://www.youtube.com/watch?v=_oO4Qi5aVZs
+Youtube video Link Below!
+
+[![Alt Text](https://img.youtube.com/vi/_oO4Qi5aVZs/0.jpg)](https://www.youtube.com/watch?v=_oO4Qi5aVZs)
 
 Design Doc: https://www.figma.com/design/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=0-1&t=5YFLb1utP3rdSlwB-0
 
@@ -43,7 +45,7 @@ In order to run this project you will need to install Vite, Node, and Tailwind
 1. Clone the repository:
    ```sh
    git clone https://github.com/ajwild320/Project-Learn-React
-2. Open you Git Bash Terminal and enter the follwoing command to
+2. Open you Git Bash Terminal and enter the following command to
    download the necessary dependencies 
    ```sh
    npm install
